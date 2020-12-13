@@ -3,10 +3,7 @@
         var username = document.getElementById("username").value;
         var password = document.getElementById("password").value;
         if (username == "student" && password == "studentpw") {
-          //alert("Login successfully");
           window.location.href = "student.php";
-          //window.location = "success.html"; // Redirecting to other page.
-          //return false;
         } 
         else if(username == "admin" && password == "adminpw"){
           window.location.href = "admin.php";

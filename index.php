@@ -18,7 +18,6 @@
         <input type="password" name="password" id="password" />
         <input type="button" value="Login" id="submit" onclick="validate()" />
       </form>
-      <!-- <span><b class="note">Note : </b>For this demo use following username and password. <br /><b class="valid">User Name : username<br />Password : password</b></span> -->
     </div>
   </div>
   <script src="script.js"></script>
