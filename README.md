@@ -1,8 +1,8 @@
 # DDWA-Asg1
 This is a site to allow users to check their profile depending on whether they're a student, lecturer or admin.  
-Student login details: student, studentpw  
-Lecturer login details: lecturer, lecturerpw  
-Admin login details: admin, adminpw  
+- Student login details: student, studentpw  
+- Lecturer login details: lecturer, lecturerpw  
+- Admin login details: admin, adminpw  
 
 # Design Process
 The site was made with everyone in mind, making sure that it is as easy to use as possible. I also wanted the design to be as clean and simple as possible. 
