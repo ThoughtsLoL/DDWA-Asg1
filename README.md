@@ -29,5 +29,4 @@ The site was made with everyone in mind, making sure that it is as easy to use a
     1. Input admin login details
     2. Site that appears is admin page
    
-# Credits
 
