@@ -11,6 +11,9 @@
         else if(username == "admin" && password == "adminpw"){
           window.location.href = "admin.php";
         }
+        else if(username == "lecturer" && password == "lecturerpw"){
+          window.location.href = "lecturer.php";
+        }
         else {
           alert("Please input the correct Username and Password");
         }
