@@ -7,7 +7,11 @@
           window.location.href = "student.php";
           //window.location = "success.html"; // Redirecting to other page.
           //return false;
-        } else {
+        } 
+        else if(username == "admin" && password == "adminpw"){
+          window.location.href = "admin.php";
+        }
+        else {
           alert("Please input the correct Username and Password");
         }
       }
